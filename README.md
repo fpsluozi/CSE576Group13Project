@@ -5,4 +5,4 @@ By Group 13: Yiran Luo, Anchit Bhattacharya, Srinivasnarayan Murali, Anshul Rai,
 * lstm-amazon.ipynb The LSTM-based architecture
 * conv1d-amazon.ipynb The 1D-CNN-based architecture
 
-Both demo models are trained/tested using the 2-class Amazon Review dataset from https://www.kaggle.com/bittlingmayer/amazonreviews
+Both demo models are trained/tested using the 2-class Amazon Review dataset from https://www.kaggle.com/bittlingmayer/amazonreviews, and the experiment results are collected using Kaggle Kernel.
